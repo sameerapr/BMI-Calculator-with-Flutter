@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.This tutorial is aimed at people who are new to Flutter, so I'm going to keep it as simple as possible with the latest Flutter updates and features. We will not learn old things or complicated things.
+
 
 A few resources to get you started if this is your first Flutter project:
 
